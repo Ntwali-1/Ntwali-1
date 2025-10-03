@@ -4,7 +4,7 @@
 
 - 🚀 I turn coffee into clean, efficient code
 - 📧 Reach me anytime: **ntwaliyanis@gmail.com**
-- ⚡ Fun fact: **I debug my dreams in multiple programming languages* 🛌💻
+- ⚡ Fun fact: **I debug my dreams in multiple programming languages** 🛌💻
 
 ---
 
