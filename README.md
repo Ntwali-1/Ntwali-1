@@ -10,17 +10,15 @@
 
 ### 🛠️ Tech Stack & Weapons of Choice
 
-**Frontend:** React | Next.js | TypeScript | Tailwind CSS  
-**Backend:**  Node.js | Express | NestJS | Java | SpringBoot
-**Database:** PostgreSQL | MongoDB  
-**Tools:**   Git | Docker | Vercel | Figma
+**Frontend:** HTML | React | Next.js | TypeScript | Tailwind CSS  
+**Backend:**  Node.js | Express | NestJS | SpringBoot | PHP | Laravel
+**Database:** PostgreSQL | MongoDB | SQL
 
 ---
 
 ### 🎯 Current Focus
 
 - Building scalable backend systems with Java & Spring Boot
-- Mastering microservices architecture and cloud deployment
 - Contributing to open source projects
 
 ---
