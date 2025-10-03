@@ -10,7 +10,7 @@
 
 ### 🎯 Current Focus
 
-- Building scalabl backend systems with Java & Spring Boot
+- Building scalable backend systems with Java & Spring Boot
 - Contributing to open source projects
 
 ---
