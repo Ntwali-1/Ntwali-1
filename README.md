@@ -1,18 +1,10 @@
-# HI, I’m Ntwali 🔥
+# HI, I’m Ntwali 🥷🏼
 
 ## Code Alchemist | Full Stack Developer
 
 - 🚀 I turn coffee into clean, efficient code
 - 📧 Reach me anytime: **ntwaliyanis@gmail.com** 
 - ⚡ Fun fact: **I debug my dreams in multiple programming languages** 🛌💻
-
----
-
-### 🛠️ Tech Stack & Weapons of Choice
-
-**Frontend:** HTML | React | Next.js | TypeScript | Tailwind CSS  
-**Backend:**  Node.js | Express | NestJS | SpringBoot | PHP | Laravel
-**Database:** PostgreSQL | MongoDB | SQL
 
 ---
 
