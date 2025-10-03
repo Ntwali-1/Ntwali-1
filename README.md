@@ -3,7 +3,7 @@
 ## Code Alchemist | Full Stack Developer
 
 - 🚀 I turn coffee into clean, efficient code
-- 📧 Reach me anytime: **ntwaliyanis@gmail.com** 
+- 📧 Reach me anytime: **ntwaliyanis@gmail.com**
 - ⚡ Fun fact: **I debug my dreams in multiple programming languages** 🛌💻
 
 ---
