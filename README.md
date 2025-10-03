@@ -1,6 +1,6 @@
 # HI, I’m Ntwali 🥷🏼
 
-## Coe Alchemist | Full Stack Developer
+## Code Alchemist | Full Stack Developer
 
 - 🚀 I turn coffee into clean, efficient code
 - 📧 Reach me anytime: **ntwaliyanis@gmail.com**
