@@ -11,7 +11,7 @@
 ### 🎯 Current Focus
 
 - Building scalable backend systems with Java & Spring Boot
-- Contributing to open source projects
+- Contributing to open source project
 
 ---
 
