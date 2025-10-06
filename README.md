@@ -8,7 +8,7 @@
 
 ---
 
-### 🎯 Current Focus
+### 🎯 Current Focu
 
 - Building scalable backend systems with Java & Spring Boot
 - Contributing to open source projects
