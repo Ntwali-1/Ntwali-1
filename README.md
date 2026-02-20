@@ -18,7 +18,6 @@
 ### 📫 Let's Connect & Create
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)](https://ntwali-yanis.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/)]
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/ntwali_00)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/n.t.w.a.l.i_______/)
 
